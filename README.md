@@ -43,3 +43,9 @@ Low-level software
 ```bash
 gcc -Wall -Wextra -g day5/day5_syscalls.c -o day5
 ./day5
+
+📘 Notes
+
+Detailed notes [Days 1–5:]
+
+👉 [View Full Notes](./notes/DAY1-5.md)
