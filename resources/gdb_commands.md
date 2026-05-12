@@ -3,8 +3,8 @@
 ## Compile for debugging
 ```bash
 gcc -g file.c -o program
-
-Start GDB
+--
+## Start GDB
 gdb ./program
 Breakpoints
 break main
