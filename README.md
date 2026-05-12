@@ -1,4 +1,4 @@
-# C Systems Bootcamp (Days 1–5)
+# C Systems Bootcamp (Days 1–10)
 
 This repository contains my Interactive ChatGpt Made low-level C systems programming bootcamp.
 
