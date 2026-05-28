@@ -1,4 +1,4 @@
-# C Systems Bootcamp (Days 1–10)
+# C Systems Bootcamp (Days 1–15)
 
 This repository contains my Interactive ChatGpt Made low-level C systems programming bootcamp.
 
@@ -49,3 +49,61 @@ gcc -Wall -Wextra -g day5/day5_syscalls.c -o day5
 Detailed notes [Days 1–5:]
 
 👉 [View Full Notes](./notes/DAY1-5.md)
+```
+
+# C Systems Bootcamp (Days 6-9)
+
+- To Be Updated
+---
+
+## 🟡 Concurrency & Threads (Day 10)
+- pthreads in C
+- Race conditions
+- Shared memory issues
+- Mutex locking
+- Thread synchronization
+- Thread IDs and execution flow
+
+---
+
+## 🔵 Networking Fundamentals (Days 11–12)
+- TCP/IP socket programming
+- Client/server architecture
+- bind(), listen(), accept(), connect()
+- Process-per-client model using fork()
+- Zombie processes and waitpid()
+- Copy-on-write behavior in Linux
+
+---
+
+## 🟣 Scalable Networking (Day 13)
+- select() system call
+- poll() system call
+- File descriptor multiplexing
+- Event-driven server architecture
+- Handling multiple clients in one process
+- Introduction to scalable backend design
+
+---
+
+## 🔴 High-Performance Linux Networking (Day 14)
+- epoll() (Linux-specific)
+- Kernel event notification system
+- Scalable socket management
+- High-performance server architecture
+- Comparison: select vs poll vs epoll
+- Event-driven backend systems (Nginx-style model)
+
+---
+
+## ⚫ Application Layer: HTTP Server (Day 15)
+- Building a real HTTP server in C
+- Parsing HTTP requests manually
+- GET method handling
+- URL routing basics
+- Serving static files from disk
+- HTTP response formatting
+- Content-Length and headers
+- Browser ↔ server communication model
+
+---
